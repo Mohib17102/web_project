@@ -1,0 +1,20 @@
+ul
+{
+margin-left:60px;
+}
+.ul li
+{
+	width:100%;
+	color:#fff;
+	height:50px;
+	background:#77C32C;
+    text-align:center;
+	line-height:50px;
+	list-style-type:none;
+	margin-top:2px;
+	font-family:tahoma;
+	font-size:18px;
+	text-transform:capitalize;
+	font-weight:;
+	border-radius:0PX 0PX 0PX 0PX;
+}
